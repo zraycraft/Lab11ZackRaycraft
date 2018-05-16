@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8C297932-38EC-4B72-BB45-55840894DED8}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab11ZackRaycraft PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab11ZackRaycraft Status">
+    <Files>
+      <File FileName="Lab11ZackRaycraft/Program.cs" Line="49" Column="26" />
+      <File FileName="Lab11ZackRaycraft Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
